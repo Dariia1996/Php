@@ -67,3 +67,4 @@ class TeacherRepository extends RepositoryAbstract
         $stmt->execute();
     }
 }
+?>
